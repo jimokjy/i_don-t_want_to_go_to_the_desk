@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1738253259 source:c:\users\asus\downloads\cmdgame\main.cpp
+	<iostream>
+	<cstring>
+	"include/Screen.h"
+	<windows.h>
+	"include/Keyboard.h"
+
+1738247646 c:\users\asus\downloads\cmdgame\include\screen.h
+
+1738248704 source:c:\users\asus\downloads\cmdgame\src\screen.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	"../include/Screen.h"
+
+1738145644 source:c:\users\asus\downloads\cmdgame\src\keyboard.cpp
+	"../include/Keyboard.h"
+	<windows.h>
+	<iostream>
+	<cstring>
+
+1737623939 c:\users\asus\downloads\cmdgame\include\keyboard.h
+
